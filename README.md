@@ -17,4 +17,4 @@
 
  ## Front-End App
 
-[Awesome README](https://github.com/PauloAbrahao/IgniteGym)
+[Ignite Gym App](https://github.com/PauloAbrahao/IgniteGym)
